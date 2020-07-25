@@ -58,6 +58,6 @@ public class SubsetSum
     public static void main(String[] args)
     {
         SubsetSum obj=new SubsetSum();
-        System.out.println(obj.subsetSum(new int[]{6,4,4}));
+        System.out.println(obj.subsetSum(new int[]{3,5,8}));
     }
 }
