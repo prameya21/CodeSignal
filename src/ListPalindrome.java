@@ -63,12 +63,12 @@ public class ListPalindrome
 
     public static void main(String[] args)
     {
-        ListPalindrome obj=new ListPalindrome();
+        ListPalindrome obj1=new ListPalindrome();
         ListNode head=new ListNode(1);
         head.next=new ListNode(2);
         head.next.next=new ListNode(2);
         head.next.next.next=new ListNode(1);
-        System.out.println(obj.isListPalindrome(head));
+        System.out.println(obj1.isListPalindrome(head));
         ListNode node=new ListNode(1);
         node.next=new ListNode(2);
         node.next.next=new ListNode(3);
@@ -76,6 +76,6 @@ public class ListPalindrome
         node.next.next.next.next=new ListNode(2);
         node.next.next.next.next.next=new ListNode(3);
 
-        System.out.println(obj.isListPalindrome(node));
+        System.out.println(obj1.isListPalindrome(node));
     }
 }
