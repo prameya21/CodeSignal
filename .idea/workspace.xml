@@ -1,9 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="4249b0c0-4a39-4637-b009-d762f7b592d9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/BiggestPlus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BoxBlur.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ClimbingStairs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CombinationSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DecodeString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DeleteFromBST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DigitTreeSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FindSubarraySum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GraphDistances.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HigherVersion2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LongestPath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MinimumOnStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NQueens.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NearestGreater.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NextLarger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RestoreBinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SimplifyPath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SortByString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SortedSquaredArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SubsetSums.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SumInRange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WordBoggle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ListPalindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ListPalindrome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodeSignal/UniqueBinarySearchTrees2$TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodeSignal/UniqueBinarySearchTrees2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodeSignal/UniqueBinarySearchTrees2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UniqueBinarySearchTrees2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UniqueBinarySearchTrees2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +73,14 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/DeleteFromBST.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProblemsViewState">
+    <hideBySeverity>
+      <option value="300" />
+    </hideBySeverity>
+  </component>
   <component name="ProjectId" id="1fFWlANsW8ujkPxALOCKcuIq6CY" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -38,64 +89,67 @@
   </component>
   <component name="PropertiesComponent">
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1595261462337" />
+    <property name="full.screen.before.presentation.mode" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Application.ListPalindrome">
-    <configuration name="CalculateBasins" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CalculateBasins" />
+  <component name="RunManager" selected="Application.SortByString">
+    <configuration name="CombinationSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CombinationSum" />
       <module name="CodeSignal" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ListPalindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ListPalindrome" />
+    <configuration name="HigherVersion2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HigherVersion2" />
       <module name="CodeSignal" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RemoveDuplicateAdjacent" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RemoveDuplicateAdjacent" />
+    <configuration name="NQueens" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NQueens" />
       <module name="CodeSignal" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringsConstruction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringsConstruction" />
+    <configuration name="SortByString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SortByString" />
       <module name="CodeSignal" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UniqueBinarySearchTrees2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="UniqueBinarySearchTrees2" />
+    <configuration name="WordBoggle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="WordBoggle" />
       <module name="CodeSignal" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.StringsConstruction" />
-      <item itemvalue="Application.CalculateBasins" />
-      <item itemvalue="Application.UniqueBinarySearchTrees2" />
-      <item itemvalue="Application.RemoveDuplicateAdjacent" />
-      <item itemvalue="Application.ListPalindrome" />
+      <item itemvalue="Application.CombinationSum" />
+      <item itemvalue="Application.HigherVersion2" />
+      <item itemvalue="Application.NQueens" />
+      <item itemvalue="Application.SortByString" />
+      <item itemvalue="Application.WordBoggle" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ListPalindrome" />
-        <item itemvalue="Application.RemoveDuplicateAdjacent" />
-        <item itemvalue="Application.UniqueBinarySearchTrees2" />
-        <item itemvalue="Application.CalculateBasins" />
-        <item itemvalue="Application.StringsConstruction" />
+        <item itemvalue="Application.SortByString" />
+        <item itemvalue="Application.HigherVersion2" />
+        <item itemvalue="Application.NQueens" />
+        <item itemvalue="Application.CombinationSum" />
+        <item itemvalue="Application.WordBoggle" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -109,11 +163,75 @@
     </task>
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="961" y="437" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1596171451347">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="961" y="437" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.2560.1400/3840.0.1920.1040@0.0.2560.1400" timestamp="1596171451347" />
     <state x="1061" y="456" key="FileChooserDialogImpl" timestamp="1595814497375">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1061" y="456" key="FileChooserDialogImpl/0.0.2560.1400/3840.0.1920.1040@0.0.2560.1400" timestamp="1595814497375" />
+    <state width="2517" height="212" key="GridCell.Tab.0.bottom" timestamp="1597721991992">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="212" key="GridCell.Tab.0.bottom/0.0.2560.1400/3840.0.1920.1040@0.0.2560.1400" timestamp="1597721991992" />
+    <state width="1877" height="212" key="GridCell.Tab.0.bottom/0.0.2560.1400/3840.0.1920.1040@3840.0.1920.1040" timestamp="1597682106545" />
+    <state width="2517" height="212" key="GridCell.Tab.0.center" timestamp="1597721991992">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="212" key="GridCell.Tab.0.center/0.0.2560.1400/3840.0.1920.1040@0.0.2560.1400" timestamp="1597721991992" />
+    <state width="1877" height="212" key="GridCell.Tab.0.center/0.0.2560.1400/3840.0.1920.1040@3840.0.1920.1040" timestamp="1597682106545" />
+    <state width="2517" height="212" key="GridCell.Tab.0.left" timestamp="1597721991992">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="212" key="GridCell.Tab.0.left/0.0.2560.1400/3840.0.1920.1040@0.0.2560.1400" timestamp="1597721991992" />
+    <state width="1877" height="212" key="GridCell.Tab.0.left/0.0.2560.1400/3840.0.1920.1040@3840.0.1920.1040" timestamp="1597682106544" />
+    <state width="2517" height="212" key="GridCell.Tab.0.right" timestamp="1597721991992">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="212" key="GridCell.Tab.0.right/0.0.2560.1400/3840.0.1920.1040@0.0.2560.1400" timestamp="1597721991992" />
+    <state width="1877" height="212" key="GridCell.Tab.0.right/0.0.2560.1400/3840.0.1920.1040@3840.0.1920.1040" timestamp="1597682106545" />
+    <state width="2517" height="336" key="GridCell.Tab.1.bottom" timestamp="1597721147575">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="336" key="GridCell.Tab.1.bottom/0.0.2560.1400/3840.0.1920.1040@0.0.2560.1400" timestamp="1597721147575" />
+    <state width="2517" height="349" key="GridCell.Tab.1.bottom/0.0.2560.1400/3840.0.1920.1040@3840.0.1920.1040" timestamp="1596680286828" />
+    <state width="2517" height="336" key="GridCell.Tab.1.center" timestamp="1597721147575">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="336" key="GridCell.Tab.1.center/0.0.2560.1400/3840.0.1920.1040@0.0.2560.1400" timestamp="1597721147575" />
+    <state width="2517" height="349" key="GridCell.Tab.1.center/0.0.2560.1400/3840.0.1920.1040@3840.0.1920.1040" timestamp="1596680286828" />
+    <state width="2517" height="336" key="GridCell.Tab.1.left" timestamp="1597721147574">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="336" key="GridCell.Tab.1.left/0.0.2560.1400/3840.0.1920.1040@0.0.2560.1400" timestamp="1597721147574" />
+    <state width="2517" height="349" key="GridCell.Tab.1.left/0.0.2560.1400/3840.0.1920.1040@3840.0.1920.1040" timestamp="1596680286828" />
+    <state width="2517" height="336" key="GridCell.Tab.1.right" timestamp="1597721147575">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="336" key="GridCell.Tab.1.right/0.0.2560.1400/3840.0.1920.1040@0.0.2560.1400" timestamp="1597721147575" />
+    <state width="2517" height="349" key="GridCell.Tab.1.right/0.0.2560.1400/3840.0.1920.1040@3840.0.1920.1040" timestamp="1596680286828" />
+    <state x="1114" y="311" key="SettingsEditor" timestamp="1595880388982">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1114" y="311" key="SettingsEditor/0.0.2560.1400/3840.0.1920.1040@0.0.2560.1400" timestamp="1595880388982" />
+    <state x="943" y="315" width="672" height="678" key="search.everywhere.popup" timestamp="1596512689766">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="943" y="315" width="672" height="678" key="search.everywhere.popup/0.0.2560.1400/3840.0.1920.1040@0.0.2560.1400" timestamp="1596512689766" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -168,8 +286,68 @@
           <line>74</line>
           <option name="timeStamp" value="23" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/DeleteFromBST.java</url>
+          <line>118</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/SimplifyPath.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/FindSubarraySum.java</url>
+          <line>43</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/DecodeString.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/NextLarger.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/DigitTreeSum.java</url>
+          <line>91</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/SubsetSums.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LongestPath.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/NQueens.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/WordBoggle.java</url>
+          <line>46</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/HigherVersion2.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="root.next[2].this$0" />
+      </configuration>
+    </watches-manager>
   </component>
   <component name="masterDetails">
     <states>

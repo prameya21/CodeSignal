@@ -1,6 +1,14 @@
 import java.util.ArrayList;
 import java.util.List;
-
+class TreeNode
+{
+    int val;
+    TreeNode left=null,right=null;
+    public TreeNode(int val)
+    {
+        this.val=val;
+    }
+}
 public class UniqueBinarySearchTrees2
 {
     /*
@@ -26,15 +34,7 @@ public class UniqueBinarySearchTrees2
         /     /       \                 \
        2     1         2                 3
      */
-    class TreeNode
-    {
-        int val;
-        TreeNode left=null,right=null;
-        public TreeNode(int val)
-        {
-            this.val=val;
-        }
-    }
+
     public List<TreeNode> generateTrees(int n)
     {
         if(n==0)
