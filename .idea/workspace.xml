@@ -20,33 +20,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4249b0c0-4a39-4637-b009-d762f7b592d9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/BiggestPlus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BoxBlur.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BubbleSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ClimbingStairs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CombinationSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DecodeString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DeleteFromBST.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DigitTreeSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FindSubarraySum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GraphDistances.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HigherVersion2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LongestPath.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MinimumOnStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NQueens.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NearestGreater.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NextLarger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RestoreBinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SimplifyPath.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SortByString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SortedSquaredArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SubsetSums.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SumInRange.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WordBoggle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BusyHolidays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ComposeRanges.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ConcurrentBackups.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DailyIntake.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EfficientRoadNetwork.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FillingBlocks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HouseRobber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MapDecoding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MaximalSquare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OptimalStockBasket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OrienteeringGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PackageBoxing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ServerFarm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ShoppingList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SquirrelAndNut.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodeSignal/UniqueBinarySearchTrees2$TreeNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodeSignal/UniqueBinarySearchTrees2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodeSignal/UniqueBinarySearchTrees2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/UniqueBinarySearchTrees2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UniqueBinarySearchTrees2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,16 +48,6 @@
         <option value="Class" />
       </list>
     </option>
-  </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>graph</find>
-      <find>ListNode</find>
-      <find>reverse</find>
-    </findStrings>
-    <replaceStrings>
-      <replace>g</replace>
-    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -96,56 +75,56 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Application.SortByString">
-    <configuration name="CombinationSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CombinationSum" />
+  <component name="RunManager" selected="Application.EfficientRoadNetwork">
+    <configuration name="ConcurrentBackups" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ConcurrentBackups" />
       <module name="CodeSignal" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HigherVersion2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HigherVersion2" />
+    <configuration name="EfficientRoadNetwork" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EfficientRoadNetwork" />
       <module name="CodeSignal" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NQueens" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="NQueens" />
+    <configuration name="ServerFarm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ServerFarm" />
       <module name="CodeSignal" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SortByString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SortByString" />
+    <configuration name="ShoppingList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ShoppingList" />
       <module name="CodeSignal" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WordBoggle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="WordBoggle" />
+    <configuration name="SquirrelAndNut" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SquirrelAndNut" />
       <module name="CodeSignal" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.CombinationSum" />
-      <item itemvalue="Application.HigherVersion2" />
-      <item itemvalue="Application.NQueens" />
-      <item itemvalue="Application.SortByString" />
-      <item itemvalue="Application.WordBoggle" />
+      <item itemvalue="Application.ConcurrentBackups" />
+      <item itemvalue="Application.EfficientRoadNetwork" />
+      <item itemvalue="Application.ServerFarm" />
+      <item itemvalue="Application.ShoppingList" />
+      <item itemvalue="Application.SquirrelAndNut" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SortByString" />
-        <item itemvalue="Application.HigherVersion2" />
-        <item itemvalue="Application.NQueens" />
-        <item itemvalue="Application.CombinationSum" />
-        <item itemvalue="Application.WordBoggle" />
+        <item itemvalue="Application.EfficientRoadNetwork" />
+        <item itemvalue="Application.SquirrelAndNut" />
+        <item itemvalue="Application.ConcurrentBackups" />
+        <item itemvalue="Application.ServerFarm" />
+        <item itemvalue="Application.ShoppingList" />
       </list>
     </recent_temporary>
   </component>
@@ -180,54 +159,58 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="961" y="437" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.2560.1400/3840.0.1920.1040@0.0.2560.1400" timestamp="1596171451347" />
-    <state x="1061" y="456" key="FileChooserDialogImpl" timestamp="1595814497375">
+    <state x="1061" y="456" key="FileChooserDialogImpl" timestamp="1600356245577">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="1061" y="456" key="FileChooserDialogImpl/0.0.2560.1400/3840.0.1920.1040@0.0.2560.1400" timestamp="1595814497375" />
-    <state width="2517" height="212" key="GridCell.Tab.0.bottom" timestamp="1597721991992">
+    <state x="1061" y="456" key="FileChooserDialogImpl/0.0.2560.1400/3840.0.1920.1040@0.0.2560.1400" timestamp="1600356245577" />
+    <state width="2517" height="336" key="GridCell.Tab.0.bottom" timestamp="1602559539936">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="212" key="GridCell.Tab.0.bottom/0.0.2560.1400/3840.0.1920.1040@0.0.2560.1400" timestamp="1597721991992" />
-    <state width="1877" height="212" key="GridCell.Tab.0.bottom/0.0.2560.1400/3840.0.1920.1040@3840.0.1920.1040" timestamp="1597682106545" />
-    <state width="2517" height="212" key="GridCell.Tab.0.center" timestamp="1597721991992">
+    <state width="2517" height="336" key="GridCell.Tab.0.bottom/0.0.2560.1400/3840.0.1920.1040@0.0.2560.1400" timestamp="1602559539936" />
+    <state width="1877" height="306" key="GridCell.Tab.0.bottom/0.0.2560.1400/3840.0.1920.1040@3840.0.1920.1040" timestamp="1598491997918" />
+    <state width="2517" height="336" key="GridCell.Tab.0.center" timestamp="1602559539936">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="212" key="GridCell.Tab.0.center/0.0.2560.1400/3840.0.1920.1040@0.0.2560.1400" timestamp="1597721991992" />
-    <state width="1877" height="212" key="GridCell.Tab.0.center/0.0.2560.1400/3840.0.1920.1040@3840.0.1920.1040" timestamp="1597682106545" />
-    <state width="2517" height="212" key="GridCell.Tab.0.left" timestamp="1597721991992">
+    <state width="2517" height="336" key="GridCell.Tab.0.center/0.0.2560.1400/3840.0.1920.1040@0.0.2560.1400" timestamp="1602559539936" />
+    <state width="1877" height="306" key="GridCell.Tab.0.center/0.0.2560.1400/3840.0.1920.1040@3840.0.1920.1040" timestamp="1598491997918" />
+    <state width="2517" height="336" key="GridCell.Tab.0.left" timestamp="1602559539936">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="212" key="GridCell.Tab.0.left/0.0.2560.1400/3840.0.1920.1040@0.0.2560.1400" timestamp="1597721991992" />
-    <state width="1877" height="212" key="GridCell.Tab.0.left/0.0.2560.1400/3840.0.1920.1040@3840.0.1920.1040" timestamp="1597682106544" />
-    <state width="2517" height="212" key="GridCell.Tab.0.right" timestamp="1597721991992">
+    <state width="2517" height="336" key="GridCell.Tab.0.left/0.0.2560.1400/3840.0.1920.1040@0.0.2560.1400" timestamp="1602559539936" />
+    <state width="1877" height="306" key="GridCell.Tab.0.left/0.0.2560.1400/3840.0.1920.1040@3840.0.1920.1040" timestamp="1598491997918" />
+    <state width="2517" height="336" key="GridCell.Tab.0.right" timestamp="1602559539936">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="212" key="GridCell.Tab.0.right/0.0.2560.1400/3840.0.1920.1040@0.0.2560.1400" timestamp="1597721991992" />
-    <state width="1877" height="212" key="GridCell.Tab.0.right/0.0.2560.1400/3840.0.1920.1040@3840.0.1920.1040" timestamp="1597682106545" />
-    <state width="2517" height="336" key="GridCell.Tab.1.bottom" timestamp="1597721147575">
+    <state width="2517" height="336" key="GridCell.Tab.0.right/0.0.2560.1400/3840.0.1920.1040@0.0.2560.1400" timestamp="1602559539936" />
+    <state width="1877" height="306" key="GridCell.Tab.0.right/0.0.2560.1400/3840.0.1920.1040@3840.0.1920.1040" timestamp="1598491997918" />
+    <state width="2517" height="336" key="GridCell.Tab.1.bottom" timestamp="1602559539937">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="336" key="GridCell.Tab.1.bottom/0.0.2560.1400/3840.0.1920.1040@0.0.2560.1400" timestamp="1597721147575" />
-    <state width="2517" height="349" key="GridCell.Tab.1.bottom/0.0.2560.1400/3840.0.1920.1040@3840.0.1920.1040" timestamp="1596680286828" />
-    <state width="2517" height="336" key="GridCell.Tab.1.center" timestamp="1597721147575">
+    <state width="2517" height="336" key="GridCell.Tab.1.bottom/0.0.2560.1400/3840.0.1920.1040@0.0.2560.1400" timestamp="1602559539937" />
+    <state width="2517" height="336" key="GridCell.Tab.1.bottom/0.0.2560.1400/3840.0.1920.1040@3840.0.1920.1040" timestamp="1598378628909" />
+    <state width="2517" height="336" key="GridCell.Tab.1.center" timestamp="1602559539936">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="336" key="GridCell.Tab.1.center/0.0.2560.1400/3840.0.1920.1040@0.0.2560.1400" timestamp="1597721147575" />
-    <state width="2517" height="349" key="GridCell.Tab.1.center/0.0.2560.1400/3840.0.1920.1040@3840.0.1920.1040" timestamp="1596680286828" />
-    <state width="2517" height="336" key="GridCell.Tab.1.left" timestamp="1597721147574">
+    <state width="2517" height="336" key="GridCell.Tab.1.center/0.0.2560.1400/3840.0.1920.1040@0.0.2560.1400" timestamp="1602559539936" />
+    <state width="2517" height="336" key="GridCell.Tab.1.center/0.0.2560.1400/3840.0.1920.1040@3840.0.1920.1040" timestamp="1598378628908" />
+    <state width="2517" height="336" key="GridCell.Tab.1.left" timestamp="1602559539936">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="336" key="GridCell.Tab.1.left/0.0.2560.1400/3840.0.1920.1040@0.0.2560.1400" timestamp="1597721147574" />
-    <state width="2517" height="349" key="GridCell.Tab.1.left/0.0.2560.1400/3840.0.1920.1040@3840.0.1920.1040" timestamp="1596680286828" />
-    <state width="2517" height="336" key="GridCell.Tab.1.right" timestamp="1597721147575">
+    <state width="2517" height="336" key="GridCell.Tab.1.left/0.0.2560.1400/3840.0.1920.1040@0.0.2560.1400" timestamp="1602559539936" />
+    <state width="2517" height="336" key="GridCell.Tab.1.left/0.0.2560.1400/3840.0.1920.1040@3840.0.1920.1040" timestamp="1598378628908" />
+    <state width="2517" height="336" key="GridCell.Tab.1.right" timestamp="1602559539936">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="336" key="GridCell.Tab.1.right/0.0.2560.1400/3840.0.1920.1040@0.0.2560.1400" timestamp="1597721147575" />
-    <state width="2517" height="349" key="GridCell.Tab.1.right/0.0.2560.1400/3840.0.1920.1040@3840.0.1920.1040" timestamp="1596680286828" />
+    <state width="2517" height="336" key="GridCell.Tab.1.right/0.0.2560.1400/3840.0.1920.1040@0.0.2560.1400" timestamp="1602559539936" />
+    <state width="2517" height="336" key="GridCell.Tab.1.right/0.0.2560.1400/3840.0.1920.1040@3840.0.1920.1040" timestamp="1598378628908" />
     <state x="1114" y="311" key="SettingsEditor" timestamp="1595880388982">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1114" y="311" key="SettingsEditor/0.0.2560.1400/3840.0.1920.1040@0.0.2560.1400" timestamp="1595880388982" />
+    <state x="987" y="433" width="1104" height="811" key="find.popup" timestamp="1602731811108">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="987" y="433" width="1104" height="811" key="find.popup/0.0.2560.1400/3840.0.1920.1040@0.0.2560.1400" timestamp="1602731811108" />
     <state x="943" y="315" width="672" height="678" key="search.everywhere.popup" timestamp="1596512689766">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
@@ -341,13 +324,48 @@
           <line>30</line>
           <option name="timeStamp" value="35" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MapDecoding.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/OptimalStockBasket.java</url>
+          <line>49</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/OrienteeringGame.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/DailyIntake.java</url>
+          <line>59</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ShoppingList.java</url>
+          <line>59</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ConcurrentBackups.java</url>
+          <line>96</line>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/SquirrelAndNut.java</url>
+          <line>48</line>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/EfficientRoadNetwork.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
-    <watches-manager>
-      <configuration name="Application">
-        <watch expression="root.next[2].this$0" />
-      </configuration>
-    </watches-manager>
   </component>
   <component name="masterDetails">
     <states>
